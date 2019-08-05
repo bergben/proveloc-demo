@@ -18,6 +18,7 @@ You can use the web app and the chrome extension of proveLOC. The smart contract
 ### Preqreuisites
   - [MetaMask](https://metamask.io/)
   - Chromium Browser
+  - Create Account in Metamask, select Ropsten Test Network and request some free Ether [here](https://faucet.metamask.io/)
 
 ### Webapp
 The web app is [deployed on firebase](https://proveloc-11543.firebaseapp.com/).
